@@ -1,2 +1,2 @@
 # kookblog
-my blog
+my blog:http://kookpua.github.com/kookblog/
